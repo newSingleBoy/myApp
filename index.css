@@ -7,9 +7,17 @@ p {
 	border-radius: 50%;
 	cursor: pointer;
 }
+<<<<<<< HEAD
 span {
 	display: inline-block;
 	width: 100px;
 	height: 100px;
 	border: 1px solid red;
+=======
+input {
+	user-select: none;
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+>>>>>>> dev1
 }
